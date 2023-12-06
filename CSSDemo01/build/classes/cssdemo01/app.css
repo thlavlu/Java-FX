@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28 Nov 2023, 09:26:37
+    Author     : thlav
+*/
+
+
+#button{
+    
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+#AnchorPane{
+    -fx-background-color: #1e90ff;
+}
+#label {
+    
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
